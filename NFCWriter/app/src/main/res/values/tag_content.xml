@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tagContentType">
+        <item>Text</item>
+        <item>Phone</item>
+        <item>Uri</item>
+    </string-array>
+    <string-array name="tagTransactions">
+        <item>Choose Input</item>
+        <item>Radiator</item>
+        <item>Fuel Filter</item>
+        <item>Hydraulic Components</item>
+        <item>Transmission + (Oil / Filter)</item>
+        <item>Air Filter</item>
+        <item>Cab Filter</item>
+        <item>Fan Belt</item>
+        <item>Trailer Hook Wear and Lock</item>
+        <item>Clevis Hook Wear and Lock</item>
+        <item>Front Link Linkage Assembly / Lift Arms</item>
+        <item>Rear Link Linkage Assembly/ Lift Arms</item>
+        <item>Throttle Cable</item>
+        <item>Gear Selector Linkage</item>
+        <item>Electrical Connections</item>
+        <item>Battery Fitting</item>
+        <item>PTO Guard</item>
+    </string-array>
+
+</resources>

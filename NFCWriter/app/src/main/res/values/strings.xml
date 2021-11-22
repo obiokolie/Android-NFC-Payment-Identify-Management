@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MECA</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Register Tag</string>
+    <string name="choose_take_pic">Choose/Take Pic</string>
+    <string name="action_readTag">Identify Holder</string>
+    <string name="title_activity_read_card">MECA - Read Card</string>
+    <string name="title_activity_read_card2">Read MECA Card</string>
+    <string name="title_activity_read2">Identity Tag</string>
+    <string name="tap_your_card">Tap Your Card</string>
+    <string name="nabiya_card_identify">MECA Card Identify</string>
+    <string name="title_activity_transactions">Transactions</string>
+</resources>
